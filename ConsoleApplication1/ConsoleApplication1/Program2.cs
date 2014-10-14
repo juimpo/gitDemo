@@ -10,8 +10,8 @@ namespace GitDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("2 + 3 = 5");
-            Console.WriteLine("1 + 2 = 3");
+            Console.WriteLine("1");
+            Console.WriteLine("2");
 
         }
     }
