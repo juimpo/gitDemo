@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace GitDemo
 {
-    class Program
+    class PrintNames
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world");
-
+            Console.WriteLine("dog");
+            Console.WriteLine("cat");
         }
     }
 }
