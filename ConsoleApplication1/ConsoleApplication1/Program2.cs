@@ -11,7 +11,7 @@ namespace GitDemo
         static void Main(string[] args)
         {
             Console.WriteLine("2 + 3 = 5");
-            Console.WriteLine("1 + 1 = 2");
+            Console.WriteLine("1 + 2 = 3");
 
         }
     }
